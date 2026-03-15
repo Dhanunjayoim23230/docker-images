@@ -1,4 +1,5 @@
 FROM almalinux:9
-LABEL course = "Devaops with aws" \
+LABEL project = "expense" \ 
+    course = "Devaops with aws" \
     cloud = "AWS" \
     trainer = "sivakumar reddy "
